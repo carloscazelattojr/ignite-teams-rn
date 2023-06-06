@@ -12,13 +12,18 @@ Projeto Ignite-Teams, desenvolvido no curso da RocketSeat (Trilha: React Native)
 
 ## Imagens do APP
 <h1 align="center">
-    <img alt="IgniteTeams" title="#IgniteTeams" src="https://github.com/carloscazelattojr/ig/blob/master/imgs-readme/web1.png"  /><br>
+    <img alt="IgniteTeams" title="#IgniteTeams" src="https://github.com/carloscazelattojr/ignite-teams-rn/blob/main/assets/t1.png"  /><br>
 </h1>
 <br>
 <h1 align="center">
-    <img alt="IgniteTeams" title="#IgniteTeams" src="https://github.com/carlosjunior1983/rocketseat-nvl-01/blob/master/imgs-readme/web2.png"  /><br>
+    <img alt="IgniteTeams" title="#IgniteTeams" src="https://github.com/carloscazelattojr/ignite-teams-rn/blob/main/assets/t2.png"  /><br>
+</h1>
+<br>
+ <h1 align="center">
+    <img alt="IgniteTeams" title="#IgniteTeams" src="https://github.com/carloscazelattojr/ignite-teams-rn/blob/main/assets/t3.png"  /><br>
 </h1>
 <br>
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/carlosjunior1983/rocketseat-nvl-01/blob/master/imgs-readme/mobile.png"  /><br>
+    <img alt="IgniteTeams" title="#IgniteTeams" src="https://github.com/carloscazelattojr/ignite-teams-rn/blob/main/assets/t5.png"  /><br>
 </h1>
+<br>
