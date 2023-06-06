@@ -15,15 +15,4 @@ Projeto Ignite-Teams, desenvolvido no curso da RocketSeat (Trilha: React Native)
     <img alt="IgniteTeams" title="#IgniteTeams" src="https://github.com/carloscazelattojr/ignite-teams-rn/blob/main/assets/t1.png"  /><br>
 </h1>
 <br>
-<h1 align="center">
-    <img alt="IgniteTeams" title="#IgniteTeams" src="https://github.com/carloscazelattojr/ignite-teams-rn/blob/main/assets/t2.png"  /><br>
-</h1>
-<br>
- <h1 align="center">
-    <img alt="IgniteTeams" title="#IgniteTeams" src="https://github.com/carloscazelattojr/ignite-teams-rn/blob/main/assets/t3.png"  /><br>
-</h1>
-<br>
-<h1 align="center">
-    <img alt="IgniteTeams" title="#IgniteTeams" src="https://github.com/carloscazelattojr/ignite-teams-rn/blob/main/assets/t5.png"  /><br>
-</h1>
-<br>
+ 
