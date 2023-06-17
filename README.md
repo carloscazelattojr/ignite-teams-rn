@@ -6,7 +6,7 @@ Projeto Ignite-Teams, desenvolvido no curso da RocketSeat (Trilha: React Native)
 
 ## Tecnologias utilizadas:
 
-`TypeScript` `Node`  `React-Native`
+`TypeScript` `Node`  `React-Native` `Expo`
 
 <br>
 
